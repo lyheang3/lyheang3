@@ -1,132 +1,79 @@
-<h1 align="center">Hi 👋, I'm Lyheang</h1>
+<h1 align="center">hey, i'm lyheang 👋</h1>
 
 <p align="center">
-  Developer • Builder • Technology Enthusiast
-</p>
-
-<p align="center">
-  <a href="https://github.com/lyheang3">
-    <img src="https://img.shields.io/badge/GitHub-lyheang3-181717?style=for-the-badge&logo=github" />
-  </a>
+  student • learning • building random things
 </p>
 
 ---
 
-## 👨‍💻 About Me
+### about me
 
-I'm a developer who enjoys building, experimenting, and learning how modern software systems work.
+i'm a student who enjoys learning by building things.
 
-I spend my time exploring software development, AI, automation, infrastructure, networking, and self-hosted systems.
+most of my projects are private and mostly made for learning, experimenting, or personal use.
 
-Most of my current projects are maintained in **private repositories**, but I use this profile to share selected projects, experiments, and open-source work.
+currently interested in:
 
-- 🔭 Building private projects and experiments
-- 🤖 Exploring AI-powered development and automation
-- 🖥️ Interested in servers, infrastructure, and self-hosting
-- 🌐 Learning more about networking and distributed systems
-- 🧠 Always experimenting with new technologies
-- 📍 Phnom Penh, Cambodia
+- 🌐 web development
+- ⚙️ backend & APIs
+- 🐧 linux servers
+- 🐳 containers & self-hosting
+- ☁️ cloudflare & networking
+- 🤖 ai-assisted development
+- 🧪 random side projects
 
 ---
 
-## 🛠️ What I Work With
+### tech i use
 
-### Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,linux,ubuntu,postgres,github,docker,cloudflare&perline=6" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
+
+---
+
+### currently learning
 
 ```text
-Software Development
-Backend Development
-APIs
-Automation
-AI-assisted Development
-```
-
-### Infrastructure
-
-```text
-Linux
-Ubuntu
-Nginx
-SSH
-Tailscale
-Self-hosting
+React / Next.js
+Backend development
+PostgreSQL
+Docker
+Linux & Ubuntu Server
 Networking
+Cloudflare
+AI-assisted coding
 ```
 
-### Tools
+---
+
+### things i like messing with
 
 ```text
-Git
-GitHub
-macOS
-Linux
-Terminal
-VS Code
-Codex
-ChatGPT
+self-hosting
+servers
+linux
+networking
+web apps
+automation
+ai tools
+docker containers
+random terminal commands
 ```
 
 ---
 
-## 🔐 Private Projects
-
-A large portion of my development work is currently private.
-
-These projects include experiments and production work involving:
-
-- AI & automation
-- Web applications
-- Backend services
-- APIs
-- Linux servers
-- Self-hosted infrastructure
-- Networking
-- Developer tooling
-
-Selected projects may be released publicly in the future.
-
----
-
-## 📊 GitHub
+### github
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=lyheang3&show_icons=true&hide_border=true"
-    alt="Lyheang's GitHub stats"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=lyheang3&show_icons=true&hide_border=true&rank_icon=github" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=lyheang3&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
-
----
-
-## 🌱 Currently Exploring
-
-- Artificial Intelligence
-- AI coding agents
-- Automation
-- Linux infrastructure
-- Self-hosted services
-- Networking
-- Developer tools
-
----
-
-## 🤝 Connect
-
-<p>
-  <a href="https://github.com/lyheang3">
-    <img src="https://img.shields.io/badge/GitHub-@lyheang3-181717?style=flat-square&logo=github" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>Build. Learn. Improve. Repeat.</i>
+  learning one bug at a time :)
 </p>
