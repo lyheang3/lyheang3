@@ -6,7 +6,7 @@
 
 ---
 
-### about me
+### About me
 
 I'm a student who enjoys learning by building things.
 
@@ -18,8 +18,8 @@ Currently interested in:
 - 🐧 Linux servers
 - 🐳 Containers & self-hosting
 - ☁️ Cloudflare & networking
-- 🤖 Ai-assisted Development
-- 🧪 random side projects
+- 🤖 AI-assisted Development
+- 🧪 Random side projects
 
 ---
 
@@ -30,8 +30,9 @@ Currently interested in:
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChatGPT_Codex-FFFFFF?style=for-the-badge&logo=openai&logoColor=black" />
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" />
+  
 </p>
 
 ---
@@ -54,25 +55,22 @@ AI-assisted coding
 ### Things I like messing with
 
 ```text
-self-hosting
-servers
-linux
-networking
-web apps
-automation
-ai tools
-docker containers
-random terminal commands
+Self-hosting
+Servers
+Linux
+Networking
+Web apps
+Automation
+AI tools
+Docker containers
+Random terminal commands
 ```
 
 ---
 
-### Github
+### Social
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lyheang3&show_icons=true&hide_border=true&rank_icon=github" />
-</p>
+  <img src="https://img.shields.io/badge/@lyheang3_-FFFFFF?style=for-the-badge&logo=github&logoColor=black" />
 
-<p align="center">
-  learning one bug at a time :)
 </p>
