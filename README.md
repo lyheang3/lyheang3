@@ -1,30 +1,29 @@
-<h1 align="center">hey, i'm lyheang 👋</h1>
+<h1 align="center">Hey, I'm Lyheang 👋</h1>
 
 <p align="center">
-  student • learning • building random things
+  Student • Learning • Building random things
 </p>
 
 ---
 
 ### about me
 
-i'm a student who enjoys learning by building things.
+I'm a student who enjoys learning by building things.
 
-most of my projects are private and mostly made for learning, experimenting, or personal use.
 
-currently interested in:
+Currently interested in:
 
-- 🌐 web development
-- ⚙️ backend & APIs
-- 🐧 linux servers
-- 🐳 containers & self-hosting
-- ☁️ cloudflare & networking
-- 🤖 ai-assisted development
+- 🌐 Web development
+- ⚙️ Backend & APIs
+- 🐧 Linux servers
+- 🐳 Containers & self-hosting
+- ☁️ Cloudflare & networking
+- 🤖 Ai-assisted Development
 - 🧪 random side projects
 
 ---
 
-### tech i use
+### Tech I Use
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,linux,ubuntu,postgres,github,docker,cloudflare&perline=6" />
@@ -37,7 +36,7 @@ currently interested in:
 
 ---
 
-### currently learning
+### Currently Learning
 
 ```text
 React / Next.js
@@ -52,7 +51,7 @@ AI-assisted coding
 
 ---
 
-### things i like messing with
+### Things I like messing with
 
 ```text
 self-hosting
@@ -68,7 +67,7 @@ random terminal commands
 
 ---
 
-### github
+### Github
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lyheang3&show_icons=true&hide_border=true&rank_icon=github" />
