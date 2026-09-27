@@ -26,7 +26,7 @@ Currently interested in:
 ### Tech I Use
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,linux,ubuntu,postgres,github,docker,cloudflare&perline=6" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,nextjs,linux,ubuntu,postgres,github,docker,cloudflare&perline=6" />
 </p>
 
 <p align="center">
